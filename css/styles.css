@@ -1,0 +1,32 @@
+.intro {
+  text-align: center;
+  font-family: cursive;
+  line-height: 1.3em;
+}
+
+.intro h1 {
+  color: red;
+}
+
+.intro a {
+  text-decoration: none;
+  color: blue;
+}
+
+.intro a:hover {
+  color:lightblue;
+}
+
+.header {
+  border-bottom: 1px solid black;
+}
+
+.main {
+  color: brown;
+  padding: 0 5%;
+}
+
+.flashy {
+  color: gold;
+  font-style: italic;
+}
